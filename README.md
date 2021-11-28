@@ -21,4 +21,4 @@ https://user-images.githubusercontent.com/43949113/143775614-15b26310-d553-4f3a-
 1. I already have a blueprint project WICH IS NOT A C++ project, can I still use this plugin?
 - Yes, In your project go to "File" header on the left top press "New C++ Class", create a new c++ actor and call it something like "DummyActor". Wait until the project compiles and your are done.
 
-Uploading InstantDialogueConverProject.mp4…
+https://user-images.githubusercontent.com/43949113/143776994-f36d6e31-4848-4e9a-b892-2874ab12837b.mp4
