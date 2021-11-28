@@ -7,6 +7,8 @@
 1. Create a Plugins folder in your project, and copy the plugin in to the folder.
 2. Your project has to be a c++ project otherwise you can't package your project
 
+https://user-images.githubusercontent.com/43949113/143775614-15b26310-d553-4f3a-b134-c1af7e04b85b.mp4
+
 ## Roadmap
 - Make the portrait a Button (so you can change the portrait on the TextNode)
 - Localization
@@ -18,3 +20,5 @@
 ## FAQ
 1. I already have a blueprint project WICH IS NOT A C++ project, can I still use this plugin?
 - Yes, In your project go to "File" header on the left top press "New C++ Class", create a new c++ actor and call it something like "DummyActor". Wait until the project compiles and your are done.
+
+Uploading InstantDialogueConverProject.mp4…
