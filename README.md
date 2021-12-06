@@ -9,6 +9,9 @@
 
 https://user-images.githubusercontent.com/43949113/143775614-15b26310-d553-4f3a-b134-c1af7e04b85b.mp4
 
+## Quick Guid
+https://user-images.githubusercontent.com/43949113/144940791-7471435b-0890-46aa-b956-e7f473c3ebd9.mp4
+
 ## Roadmap
 - Make the portrait a Button (so you can change the portrait on the TextNode)
 - Localization
